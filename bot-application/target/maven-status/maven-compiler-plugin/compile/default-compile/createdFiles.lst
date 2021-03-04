@@ -1,0 +1,6 @@
+com\ivoice\App.class
+com\ivoice\Bot$Read.class
+com\ivoice\Bot$Send.class
+com\ivoice\Bot$Think.class
+com\ivoice\Bot$Command.class
+com\ivoice\Bot.class
